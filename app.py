@@ -60,7 +60,7 @@ if st.session_state.show_histogram:
 
 
 # GRAFICO 2
-st.header('Relación Precio - Kilometraje')
+st.header('Relación Precio - Millas')
 
 # Crear un Checkbox en la aplicación Streamlit
 scatter_checkbox = st.checkbox('Mostrar Diagrama de Dispersión')
